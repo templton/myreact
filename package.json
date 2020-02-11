@@ -1,0 +1,19 @@
+{
+  "name": "myreact",
+  "version": "1.0.0",
+  "description": "Конфигурации для разработки приложений react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:templton/myreact.git"
+  },
+  "author": "Salamatov Dmitry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/templton/myreact/issues"
+  },
+  "homepage": "https://github.com/templton/myreact#readme"
+}
